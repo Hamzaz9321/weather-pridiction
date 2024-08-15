@@ -1,4 +1,5 @@
 Weather Prediction using Linear Regression
+
 This project demonstrates how to predict weather temperature using a linear regression model with the help of the scikit-learn library in Python. The model is trained on a weather dataset and evaluated using common metrics like Mean Squared Error (MSE) and R² score.
 
 Project Overview
